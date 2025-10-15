@@ -92,8 +92,11 @@ Algumas melhorias que planejo implementar:
 - [ ] Adicionar mais datasets ao banco de dados
 
 **Desenvolvido por:** Octavio Augusto Arruda dos Prazeres 
+
 **Curso:** Engenharia de Software  
+
 **Disciplina:** Inteligência Artificial  
+
 **Ano:** 2025
 
 
